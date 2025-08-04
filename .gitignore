@@ -1,0 +1,21 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*checkpoint*.ipynb
+
+# Ignore model training artifacts
+training_hist*.json
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore environment and secret files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
