@@ -179,7 +179,7 @@ def local_css():
     .stSidebar .stMarkdown li,
     .stSidebar .stMarkdown ul,
     .stSidebar .stMarkdown ol {
-       color: #FFFFFF !important;
+       color: #343434 !important;
         font-size: 15px;
         line-height: 1.6;
     }
